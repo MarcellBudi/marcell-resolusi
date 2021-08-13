@@ -2,6 +2,8 @@ RENCANA KULIAH
 - Lulus semester dengan ipk diatas 3
 - Ikut bagian dari organisasi
 - Meminimalisir pengeluaran
+- Javascript
+- PHP
 - Mengumpulkan Poin SKP
   * Ikut webinar
   * Ikut organisasi
