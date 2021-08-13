@@ -4,6 +4,7 @@ RENCANA KULIAH
 - Meminimalisir pengeluaran
 - Javascript
 - PHP
+- HTML CSS
 - Mengumpulkan Poin SKP
   * Ikut webinar
   * Ikut organisasi
